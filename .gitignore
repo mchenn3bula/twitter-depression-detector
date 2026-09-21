@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.ruff_cache/
+data/
+runs/
+*.csv
+*.joblib
+*.safetensors
+*.pt
+*.pth
+.env
+.env.*
